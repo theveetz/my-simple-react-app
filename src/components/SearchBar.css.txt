@@ -1,0 +1,14 @@
+/* src/components/SearchBar.css */
+.SearchBar {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+}
+
+.SearchBar input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1.2em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
